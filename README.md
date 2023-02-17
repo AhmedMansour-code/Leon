@@ -14,3 +14,7 @@ Youtube : Elzero Web school
 This is a simple website Template .. Boxed website
 
 License : Made by GraphBerry.
+
+Link To View The Template :
+---------------------------
+https://ahmedmansour-code.github.io/Leon/
