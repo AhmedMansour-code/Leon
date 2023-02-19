@@ -350,7 +350,7 @@ header .container .dropmenu ul li a {
 }
 .portfolio .container .content .card .image {
     position: relative;
-    max-height: 250px;
+    overflow: hidden;
 }
 .portfolio .container .content .card .image:hover .overlay {
     opacity: 0.7;
